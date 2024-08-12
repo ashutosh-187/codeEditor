@@ -24,3 +24,7 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/ashutosh-187/codeEditor.git
    cd Code Editor
+
+Deployment
+This project is deployed using Netlify. You can view the live version by following the link below.
+[codeEditor](https://master--code-editor-187.netlify.app/)
