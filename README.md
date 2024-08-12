@@ -16,15 +16,7 @@ This project is a simple code editor built with React, using PrismJS for syntax 
 - **PrismJS**: Lightweight, extensible syntax highlighter.
 - **TailwindCSS**: Utility-first CSS framework for styling.
 
-## Setup
+## Deployment
 
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ashutosh-187/codeEditor.git
-   cd Code Editor
-
-Deployment
 This project is deployed using Netlify.
 Click here to view the live version [codeEditor](https://master--code-editor-187.netlify.app/)
