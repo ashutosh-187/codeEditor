@@ -18,7 +18,7 @@ function App() {
       <div className="flex items-center justify-center mb-2">
         <button 
           className="bg-black text-white rounded-sm font-mono p-1 hover:bg-lime-600"
-          onClick={()=>window.open("https://github.com/ashutosh-187", "_blank")}
+          onClick={()=>window.open("https://github.com/ashutosh-187/codeEditor", "_blank")}
         >
           Github
         </button>
