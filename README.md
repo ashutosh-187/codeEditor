@@ -26,5 +26,5 @@ To run this project locally, follow these steps:
    cd Code Editor
 
 Deployment
-This project is deployed using Netlify. You can view the live version by following the link below.
-[codeEditor](https://master--code-editor-187.netlify.app/)
+This project is deployed using Netlify.
+Click here to view the live version [codeEditor](https://master--code-editor-187.netlify.app/)
